@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "Spooky#1393",
+        "version": "1.0",
+        "license": " ",
+        "name": "Dark Aether"
+    },
+    "background": {
+        "overlay_alpha": 155,
+        "url": "https:\/\/media.discordapp.net\/attachments\/436632218086146051\/895350379678662736\/20211005_192633.gif"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 1258291200,
+        "background_secondary": 620756992,
+        "active_channel": -698670986,
+        "accent": -9818171,
+        "mention_highlight": 1248993279
+    },
+    "colors": {
+        "primary_dark_800": -1308622848,
+        "link_500": -10603131,
+        "dim_foreground_material_light": -14737626,
+        "uikit_btn_bg_color_selector_brand": -11192955,
+        "uikit_btn_bg_color_selector_green": -9416303,
+        "uikit_btn_bg_color_selector_red": -10805130,
+        "uikit_settings_item_text_color_light": -12303286,
+        "primary_dark_200": -855053
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12377994,
+        "drawable_button_red": -10805130,
+        "ic_channel_text": -6917941,
+        "ic_thread": -12839048,
+        "ic_channel_text_locked": -6453826,
+        "ic_status_online_16dp": -14303143
+    }
+}
